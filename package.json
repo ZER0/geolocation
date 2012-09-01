@@ -5,5 +5,5 @@
     "version": "0.1", 
     "fullName": "geolocation", 
     "id": "jid1-fWcKpgERKzTmsg", 
-    "description": "a basic add-on"
+    "description": "a basic add-on with geolocation module implementation"
 }

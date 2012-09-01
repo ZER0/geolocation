@@ -1,0 +1,1 @@
+GeoLocation module for Add-on SDK
