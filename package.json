@@ -1,9 +1,19 @@
 {
-    "name": "geolocation", 
-    "license": "MPL 2.0", 
-    "author": "", 
-    "version": "0.1", 
-    "fullName": "geolocation", 
-    "id": "jid1-fWcKpgERKzTmsg", 
-    "description": "a basic add-on with geolocation module implementation"
+  "name": "geolocation",
+  "version": "0.0.2",
+  "description": "Geolocation Service",
+  "keywords": [ "geolocation" ],
+  "author": "Matteo Ferretti <zer0@mozilla.com>",
+  "homepage": "https://github.com/ZER0/geolocation",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ZER0/geolocation.git",
+    "web": "https://github.com/ZER0/geolocation"
+  },
+  "bugs": {
+    "url": "http://github.com/ZER0/geolocation/issues/"
+  },
+  "license": "MPL 2.0",
+  "fullName": "geolocation",
+  "dependencies": ["api-utils", "doorhanger"]
 }
