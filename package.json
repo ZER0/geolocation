@@ -15,5 +15,5 @@
   },
   "license": "MPL 2.0",
   "fullName": "geolocation",
-  "dependencies": ["api-utils", "doorhanger"]
+  "dependencies": ["doorhanger"]
 }
